@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"OX Support Added"}
+{"version":"1.0.3", "notes":"Release"}
