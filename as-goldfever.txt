@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"Release"}
+{"version":"2.0.0", "notes":"Added: Support for OX, ESX, Different Inventory systems and bug fixes"}
