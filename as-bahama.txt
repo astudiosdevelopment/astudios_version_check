@@ -1,1 +1,1 @@
-{"version":"1.5.7", "notes":"Fixed bugs & Made script almost ESX Ready"}
+{"version":"1.5.8", "notes":"Bugfixes"}
