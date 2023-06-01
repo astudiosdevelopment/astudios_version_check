@@ -1,1 +1,1 @@
-{"version":"1.5.8", "notes":"Bugfixes"}
+{"version":"1.5.9", "notes":"Bugfixes"}
