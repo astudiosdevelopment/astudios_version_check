@@ -1,1 +1,1 @@
-{"version":"1.5.9", "notes":"Added OX, ESX, LS, QS Support + Bug fixes and more"}
+{"version":"1.6.0", "notes":"Minor bugfixes"}
